@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">Student in application engineering in web & mobile technology</h3>
 
+- 💬 Ask me about **c++, java, Python, Css, Html, Php**
+- 🌱 I’m currently learning **React, angular, Android, Kotlin**
 - 📫 How to reach me **shimiiyounes@gmail.com**
+
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
