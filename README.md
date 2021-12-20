@@ -6,7 +6,7 @@
 - 📫 How to reach me **shimiiyounes@gmail.com**
 
 
-
+<img align="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <h3 align="left">Connect with me:</h3>
