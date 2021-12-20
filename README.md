@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React, angular, Android, Kotlin**
 - 📫 How to reach me **shimiiyounes@gmail.com**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="https://media.giphy.com/media/u6HwxwqVGxkIg/giphy.gif">
 
 
 
