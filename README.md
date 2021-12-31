@@ -4,23 +4,13 @@
 - 💬 Ask me about **c++, java, Python, Css, Html, Php**
 - 🌱 I’m currently learning **React, angular, Android, Kotlin**
 - 📫 How to reach me **shimiiyounes@gmail.com**
-
-<img align="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-<Avatar
-  avatarStyle='Circle'
-  topType='ShortHairShortWaved'
-  accessoriesType='Prescription02'
-  hairColor='Black'
-  facialHairType='Blank'
-  clotheType='Hoodie'
-  clotheColor='Blue03'
-  eyeType='WinkWacky'
-  eyebrowType='DefaultNatural'
-  mouthType='Tongue'
-  skinColor='Light'
+<!--
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+-->
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=WinkWacky&eyebrowType=DefaultNatural&mouthType=Tongue&skinColor=Light'
 />
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
