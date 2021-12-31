@@ -7,6 +7,21 @@
 
 <img align="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
+<Avatar
+  avatarStyle='Circle'
+  topType='ShortHairShortWaved'
+  accessoriesType='Prescription02'
+  hairColor='Black'
+  facialHairType='Blank'
+  clotheType='Hoodie'
+  clotheColor='Blue03'
+  eyeType='WinkWacky'
+  eyebrowType='DefaultNatural'
+  mouthType='Tongue'
+  skinColor='Light'
+/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Youneshimii" target="blank">
