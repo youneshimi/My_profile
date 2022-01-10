@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">Student in application engineering in web & mobile technology</h3>
 
+- 📫 How to reach me **shimiiyounes@gmail.com**
+<!--
 - 💬 Ask me about **c++, java, Python, Css, Html, Php**
 - 🌱 I’m currently learning **React, angular, Android, Kotlin**
 - 📫 How to reach me **shimiiyounes@gmail.com**
 <!--
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
--->
+
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=WinkWacky&eyebrowType=DefaultNatural&mouthType=Tongue&skinColor=Light'
 />
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,9 +21,10 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/younes-shimi/" height="30" width="40" /></a>
 </p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
+-->
 
 <h3 align="left">Frontend Development:</h3>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
