@@ -2,7 +2,7 @@
 <h3 align="center">Student in application engineering in web & mobile technology</h3>
 
 
-- 📫 How to reach me **shimiiyounes@gmail.com**
+- 📫 How to reach me **ounesshimi@gmail.com**
 <!--
 - 📫 How to reach me **shimiiyounes@gmail.com**
 <!--
