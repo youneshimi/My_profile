@@ -8,6 +8,6 @@ You can reach me by email at: [ounesshimi@gmail.com](mailto:ounesshimi@gmail.com
 
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/younes-himi/
-- GitHub: https://github.com/YounesHimi
+- LinkedIn: [Younes Shimi](https://www.linkedin.com/in/younes-shimi/)
+- GitHub: [youneshimi](https://github.com/youneshimi)
 
