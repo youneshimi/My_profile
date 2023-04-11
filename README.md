@@ -11,43 +11,55 @@ You can reach me by email at: [ounesshimi@gmail.com](mailto:ounesshimi@gmail.com
 - LinkedIn: [Younes Shimi](https://www.linkedin.com/in/younes-shimi/)
 - GitHub: [youneshimi](https://github.com/youneshimi)
 
+- # Younes Shimi
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-shimi-0ba513209/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ounesshimi)
+
+  ## Experience professionnelle
+
+  ### Stage technique chez Sté JDI SOFT, Fès-Meknès, Maroc
+
+  Réalisation d'un réseau social pour les administrateurs de fondations
+  Création d'un site de rencontres pour un groupe de fondations
+
+  #### Technologies utilisées
+
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Laravel 8](https://img.shields.io/badge/-Laravel%208-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+  ### Projets Académiques
+
+  #### Réseau d'entreprise
+
+  ##### Technologies
+
+  ![DHCP](https://img.shields.io/badge/-DHCP-0769AD?style=for-the-badge&logoColor=white) ![DNS](https://img.shields.io/badge/-DNS-0769AD?style=for-the-badge&logoColor=white) ![FTP](https://img.shields.io/badge/-FTP-0769AD?style=for-the-badge&logoColor=white) ![HTTP](https://img.shields.io/badge/-HTTP-0769AD?style=for-the-badge&logoColor=white) ![LDAP](https://img.shields.io/badge/-LDAP-0769AD?style=for-the-badge&logoColor=white)
+
+  #### MylOC - Application web
+
+  ##### Technologies
+
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+  #### Réseaux sans fil
+
+  ##### Technologies
+
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Projets personnels
+
+#### Portfolio personnel
+
+##### Technologies
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Site de vente en ligne
+
+##### Technologies
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Compétences
 
-- Langages de programmation : 
-
-    ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-    ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-    ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks)
-    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-
-- Frameworks web : 
-
-    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
-    ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
-    ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-    ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
-    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-
-- Développement web : 
-
-    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-    ![JQuery](https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jquery)
-
-- Développement mobile : 
-
-    ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-    ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
-    ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-
-- Modélisation : 
-
-    ![Merise](https://img.shields.io/badge/-Merise-000000?style=flat-square&logo=data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAA
-
-
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Laravel 8](https://img.shields.io/badge/-Laravel%208-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
