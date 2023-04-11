@@ -88,3 +88,6 @@ Services et protocoles réseau :
   - 📞 Téléphone: [+2126 68 68 99 02](tel:+212668689902)
   - ✉️ Email: [ounesshimi@gmail.com](mailto:ounesshimi@gmail.com)
   - 💼 LinkedIn: [Younes Shimi](https://www.linkedin.com/in/younes-shimi/)
+
+
+[![](https://visitcount.itsvg.in/api?id=youneshimi&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
